@@ -1,0 +1,7 @@
+{
+  "name": "copyjob1",
+  "properties": {
+    "jobMode": "Batch"
+  },
+  "activities": []
+}
